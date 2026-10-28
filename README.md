@@ -15,10 +15,10 @@ Four responsive front-end projects built for the **Datheon Full Stack Web Develo
 
 | Task # | Project Name | Tech Stack | Key Features |
 |---:|---|---|---|
-| 1 | Personal Developer Portfolio & Project Showcase | HTML5, CSS3, JavaScript ES6+ | Responsive layout, dark/light theme, smooth navigation, mobile menu, project modals |
-| 2 | Dynamic Task Manager & Productivity Tracker | HTML5, CSS3, JavaScript, DOM APIs, LocalStorage | Complete CRUD, categories, due dates, status filters, search, persistent browser state |
-| 3 | Real-Time Weather Forecast & Climate Telemetry | HTML5, CSS, JavaScript Fetch API, Async/Await, Open-Meteo API | City search, current metrics, five-day forecast, loading/error states, dynamic themes |
-| 4 | E-Commerce Product Catalog & Interactive Shopping Cart | HTML5, CSS Grid, JavaScript, FakeStoreAPI | Product search/filtering, persistent cart, quantity controls, tax/shipping totals, checkout modal |
+| 1 | [Personal Developer Portfolio](https://full-stack-web-internship.web.app) | HTML5, CSS3, JavaScript ES6+ | Responsive layout, dark/light theme, smooth navigation, mobile menu, project modals |
+| 2 | [Dynamic Task Manager](https://task-2-task-manager.web.app) | HTML5, CSS3, JavaScript, DOM APIs, LocalStorage | Complete CRUD, categories, due dates, status filters, search, persistent browser state |
+| 3 | [Weather Forecast Dashboard](https://task-3-weather-app.web.app) | HTML5, CSS, JavaScript Fetch API, Async/Await, Open-Meteo API | City search, current metrics, five-day forecast, loading/error states, dynamic themes |
+| 4 | [Aster Store](https://task-4-ecommerce-cart.web.app) | HTML5, CSS Grid, JavaScript, FakeStoreAPI | Product search/filtering, persistent cart, quantity controls, tax/shipping totals, checkout modal |
 
 ## Table of Contents
 
