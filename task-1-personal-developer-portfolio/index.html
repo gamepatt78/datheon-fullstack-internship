@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Developer portfolio and project showcase"><title>Athwin Videsh | Developer Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="nav-wrap"><nav class="nav container" aria-label="Main navigation">
+    <a class="brand" href="#home">AV<span>.</span></a>
+    <button class="menu-button" aria-label="Toggle menu" aria-expanded="false"><span></span><span></span><span></span></button>
+    <div class="nav-links"><a href="#about">About</a><a href="#skills">Skills</a><a href="#projects">Projects</a><a href="#contact">Contact</a><button id="themeToggle" class="theme-toggle" aria-label="Toggle theme">☾</button></div>
+  </nav></header>
+  <main>
+    <section id="home" class="hero container"><div class="hero-copy"><p class="eyebrow">Hello, I'm</p><h1>Athwin Videsh <span>M.</span></h1><h2>Full Stack Developer</h2><p>I build clean, accessible and scalable digital experiences for the web.</p><div class="actions"><a class="button" href="#projects">View my work</a><a class="button secondary" href="#contact">Get in touch</a></div></div><div class="hero-art"><div class="code-card"><span>&lt;/&gt;</span><small>Building better web experiences</small></div></div></section>
+    <section id="about" class="section container"><p class="eyebrow">About me</p><h3>Turning ideas into useful products</h3><div class="about-grid"><p>I am a passionate developer who enjoys solving problems through thoughtful design and reliable code. I focus on creating responsive interfaces and learning modern full-stack technologies.</p><div class="stats"><div><strong>4+</strong><span>Featured projects</span></div><div><strong>2+</strong><span>Years learning</span></div></div></div></section>
+    <section id="skills" class="section"><div class="container"><p class="eyebrow">My toolkit</p><h3>Technical skills</h3><div class="skills-grid"><article>HTML5<span>Semantic markup</span></article><article>CSS3<span>Responsive design</span></article><article>JavaScript<span>ES6+ development</span></article><article>React<span>Component systems</span></article><article>Python<span>Data & automation</span></article><article>Firebase<span>Hosting & backend</span></article></div></div></section>
+    <section id="projects" class="section container"><p class="eyebrow">Selected work</p><h3>Featured projects</h3><div class="project-grid" id="projectGrid"></div></section>
+    <section id="contact" class="section contact"><div class="container"><p class="eyebrow">Contact</p><h3>Have a project in mind?</h3><p>Let's create something useful together.</p><a class="button" href="mailto:athwin@example.com">Email me</a><div class="socials"><a href="#">LinkedIn</a><a href="#">GitHub</a></div></div></section>
+  </main>
+  <footer><p>© 2026 Athwin Videsh. Built with HTML, CSS and JavaScript.</p></footer>
+  <dialog id="projectModal"><button class="modal-close" aria-label="Close modal">×</button><div id="modalContent"></div></dialog>
+  <script src="script.js"></script>
+</body>
+</html>
